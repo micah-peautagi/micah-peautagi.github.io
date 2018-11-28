@@ -1,0 +1,14 @@
+.sub-heading {
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h1 {
+    color: white;
+    background: black;
+    font-size: 50px;
+}
+h2 {
+    color: white;
+    font-size: 30px;
+    background: black;
+}
