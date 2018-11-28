@@ -11,3 +11,19 @@ p {
     color: blue;
     text-size-adjust: 50px;
 }
+.main-nav {
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.main-nav li {
+    display: inline-block;
+}
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-size: 15px;
+}
