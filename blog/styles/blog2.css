@@ -1,13 +1,13 @@
 
 
 
-.inline {
-    display: flex;
-}
+
+
+
 
 .row {
     width: 100%;
-   
+   display: flex;
 }
 .col-1 {
     width: 8.33%
