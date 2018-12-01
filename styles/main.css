@@ -1,29 +1,110 @@
-h1 {
-    color: white;
-    background: black;
-    text-align: center;
-    font-size: 100px;
-    margin: -10.5px;
-    padding: 2px;
-    border: 100px;
-}
-p {
-    color: blue;
-    text-size-adjust: 50px;
-}
-.main-nav {
-    float: right;
-    list-style: none;
-    margin-top: 30px;
+* {
+    box-sizing: border-box; 
+    margin: 0;
+    padding: 0;
 }
 
-.main-nav li {
-    display: inline-block;
+
+.black-background {
+    background-color: #222222
+;
+
 }
-.main-nav li a
-{
+
+.navigation-panel {
+display: inline-block;
+width: 100%;
+
+
+}
+
+.navigation-buttons-black {
+    padding: 20px 0px 20px 0px ;
+    background-color: black;
+}
+
+.navigation-buttons-white {
+    padding: 20px 0px 20px 0px ;
+    background-color: white;
+    
+}
+
+.img-bear {
+    width: 100%;s
+}
+
+.white-font {
     color: white;
-    text-decoration: none;
-    padding: 5px 20px;
-    font-size: 15px;
+}
+
+.black-font {
+    color: black;
+}
+
+h1 {font-family: 'Josefin Sans', sans-serif;
+    font-size: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0px 5px 0px;
+
+}
+
+h4 {
+   
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+
+}
+
+
+.sprint-1-button: hover {
+
+
+}
+
+.row {
+    width: 100%;
+    display: flex; flex-wrap: wrap;
+}
+.col-1 {
+    width: 8.33%
+}
+.col-2 {
+    width: 16.66%;
+}
+.col-3 {
+    width: 25%;
+}
+.col-4 {
+    width: 33.33%;
+}
+.col-5 {
+    width:
+}
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
 }
